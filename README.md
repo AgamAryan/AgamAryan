@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AgamAryan
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Python programming
+- 👋 Hi, It's Aryan  - @AgamAryan
+- Java
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me - aryanverma1112002@gmail.com
 
