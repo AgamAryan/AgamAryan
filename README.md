@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me - aryanverma1112002@gmail.com
 
-- PROFILES :
+- MY PROFILES :
 - Linkdin - https://www.linkedin.com/in/aryan-verma-95a3a322b/
 - Twitter - https://twitter.com/agam_aaryan
 - Hackerrank - https://www.hackerrank.com/aryanverma111201
