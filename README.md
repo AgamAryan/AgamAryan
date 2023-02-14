@@ -1,6 +1,6 @@
 - 👋 Hi, It's Aryan  - @AgamAryan
 - Java
-- 💞️ I’m looking to collaborate on app development projects
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me - aryanverma1112002@gmail.com
 
 - MY PROFILES :
