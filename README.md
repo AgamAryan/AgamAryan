@@ -4,7 +4,7 @@
 - 📫 How to reach me - connectme.av@gmail.com
 
 - MY PROFILES :
-- Linkdin - https://www.linkedin.com/in/aryanverma1112k/
+- LinkedIn - https://www.linkedin.com/in/aryanverma1112k/
 - Twitter - https://twitter.com/agam_aaryan
 - Hackerrank - https://www.hackerrank.com/aryanverma111201
 
