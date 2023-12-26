@@ -1,10 +1,10 @@
 - 👋 Hi, It's Aryan  - @AgamAryan
 - Java, Springboot, Spring Security, OAuth2, HTML, CSS, Bootstrap, JavaScript, ReactJs
 - 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me - aryanverma1112002@gmail.com
+- 📫 How to reach me - connectme.av@gmail.com
 
 - MY PROFILES :
-- Linkdin - https://www.linkedin.com/in/aryanverma11012002/
+- Linkdin - https://www.linkedin.com/in/aryanverma1112k/
 - Twitter - https://twitter.com/agam_aaryan
 - Hackerrank - https://www.hackerrank.com/aryanverma111201
 
